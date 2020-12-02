@@ -7,7 +7,7 @@
 <p>Fui além na construção desse projeto.</p>
 <p>Apliquei à esse site um sistema responsivo por meio das funções de meida query disponíveis no CSS.</p>
 
-<p>Caso tenha curiosidade em saber o resultado desse projeto, clique <a src="https://youtu.be/6Pk1Cm8r23I">aqui</a> para assistir ao vídeo. Aproveite e conheça meu canal no YouTube!</p>
+<p>Caso tenha curiosidade em saber o resultado desse projeto, clique <a href="https://youtu.be/6Pk1Cm8r23I" target="_blank">aqui</a> para assistir ao vídeo. Aproveite e conheça meu canal no YouTube!</p>
 
 
 # Conceitos aprendidos e aplicados
